@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fake Store</string>
+    <string name="image_description">image description</string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="category">Category:\u0020</string>
+    <string name="rating_count">Rating Count</string>
+    <string name="no_internet">Please connect to the internet…</string>
+    <string name="rated_by">Rated By :\u0020</string>
+    <string name="people">\u0020people</string>
+</resources>
